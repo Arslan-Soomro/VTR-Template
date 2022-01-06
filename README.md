@@ -5,6 +5,11 @@
 that way you can store images there and you won't have to write import statements everytime you use an image
 
 ##### 1. Create A Vite/Create-React-App
-```shell
+```console
 npm init vite@latest
+```
+
+##### 2. Install tailwindcss postcss and autoprefixer
+```console
+npm install tailwindcss postcss autoprefixer -D
 ```
