@@ -3,3 +3,8 @@
 
 ### Create A public folder in root directory
 that way you can store images there and you won't have to write import statements everytime you use an image
+
+##### 1. Create A Vite/Create-React-App
+```shell
+npm init vite@latest
+```
